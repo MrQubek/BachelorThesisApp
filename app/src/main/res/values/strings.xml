@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Praca inżynierska</string>
+    <string name="btn_connect">Połącz</string>
+    <string name="btn_disconnect">Rozłącz</string>
+    <string name="title_oswietlenie">Oświetlenie</string>
+    <string name="btn_swiatlo_ON">Włącz</string>
+    <string name="btn_swiatlo_OFF">Wyłącz</string>
+    <string name="checkBox_wl">Włącz oświetlenie o:</string>
+    <string name="checkBox_wyl">Wyłącz oświetlenie o:</string>
+    <string name="dwukropek">:</string>
+    <string name="checkBox_czujnik_osw">Włącz oświetlenie w zależności od czujnika światła</string>
+    <string name="info_ustaw_prog">Ustaw próg załączenia oświetlenia:</string>
+    <string name="info_aktualne_osw">Aktualne oświetlenie:</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="checkBox_temperatura_ON">Włącz sterowanie temperatury</string>
+    <string name="aktualna_temp">Aktualna temperatura:</string>
+    <string name="zadana_temp">Zadana temperatura:</string>
+    <string name="wl_wentylator">Włącz wentylator w oknie</string>
+    <string name="info_zmien_zad_temp">Zmień zadaną temperaturę:</string>
+
+</resources>
